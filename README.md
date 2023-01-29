@@ -16,8 +16,8 @@ The skills required are all common to most modern applied approaches to data eng
 
 ## 🚀Select test type
 
-[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile)
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
+[![Q&A](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile)
+[![Pratical Test](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
 
 
 ## Recursos para o README
