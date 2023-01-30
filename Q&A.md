@@ -7,35 +7,35 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Good luck !
 
-:blue_book: <strong><b>1)</b></strong>
+:blue_book: <strong><b>1)</b></strong>  What is Data Engineering?
 
-:blue_book: <strong><b>2)</b></strong>
+:blue_book: <strong><b>2)</b></strong> What is Data Modeling?
 
-:blue_book: <strong><b>3)</b></strong>
+:blue_book: <strong><b>3)</b></strong> What are the design schemas available in data modeling?
 
-:blue_book: <strong><b>4)</b></strong>
+:blue_book: <strong><b>4)</b></strong> What is the difference between a data engineer and a data scientist?
 
-:blue_book: <strong><b>5)</b></strong>
+:blue_book: <strong><b>5)</b></strong> What are the differences between structured and unstructured data?
 
-:blue_book: <strong><b>6)</b></strong>
+:blue_book: <strong><b>6)</b></strong> What are the features of Hadoop?
 
-:blue_book: <strong><b>7)</b></strong>
+:blue_book: <strong><b>7)</b></strong> Which frameworks and applications are important for data engineers?
 
-:blue_book: <strong><b>8)</b></strong>
+:blue_book: <strong><b>8)</b></strong> What is HDFS?
 
-:blue_book: <strong><b>9)</b></strong>
+:blue_book: <strong><b>9)</b></strong> What is a NameNode?
 
-:blue_book: <strong><b>10)</b></strong>
+:blue_book: <strong><b>10)</b></strong> What are the repercussions of the NameNode crash?
 
-:blue_book: <strong><b>11)</b></strong>
+:blue_book: <strong><b>11)</b></strong> What is a block and block scanner in HDFS?
 
-:blue_book: <strong><b>12)</b></strong>
+:blue_book: <strong><b>12)</b></strong> What are the components of Hadoop?
 
-:blue_book: <strong><b>13)</b></strong>
+:blue_book: <strong><b>13)</b></strong> Explain MapReduce in Hadoop.
 
-:blue_book: <strong><b>14)</b></strong>
+:blue_book: <strong><b>14)</b></strong> What is the Heartbeat in Hadoop?
 
-:blue_book: <strong><b>15)</b></strong>
+:blue_book: <strong><b>15)</b></strong> How does the NameNode communicate with the DataNode?
 
 :blue_book: <strong><b>16)</b></strong>
 
