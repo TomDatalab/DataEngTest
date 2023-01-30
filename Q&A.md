@@ -140,24 +140,24 @@ and Bill Inmon?
 
 :blue_book: <strong><b>66)</b></strong> What is a View? (in SQL show us an example of use for views)
 
-:blue_book: <strong><b>67)</b></strong> 
+:blue_book: <strong><b>67)</b></strong> What is DBMS?
 
-:blue_book: <strong><b>68)</b></strong>
+:blue_book: <strong><b>68)</b></strong> What is RDBMS? How is it different from DBMS?
 
-:blue_book: <strong><b>69)</b></strong>
+:blue_book: <strong><b>69)</b></strong> What is a Primary Key?
 
-:blue_book: <strong><b>70)</b></strong>
+:blue_book: <strong><b>70)</b></strong> What is a UNIQUE constraint?
 
-:blue_book: <strong><b>71)</b></strong>
+:blue_book: <strong><b>71)</b></strong> What is a Foreign Key?
 
-:blue_book: <strong><b>72)</b></strong>
+:blue_book: <strong><b>72)</b></strong> What is an Index? Explain its different types.
 
-:blue_book: <strong><b>73)</b></strong>
+:blue_book: <strong><b>73)</b></strong> What is the difference between Clustered and Non-clustered index?
 
-:blue_book: <strong><b>74)</b></strong>
+:blue_book: <strong><b>74)</b></strong> What is Data Integrity?
 
-:blue_book: <strong><b>75)</b></strong>
+:blue_book: <strong><b>75)</b></strong> What are Entities and Relationships?
 
-:blue_book: <strong><b>76)</b></strong>
+:blue_book: <strong><b>76)</b></strong> What are the TRUNCATE, DELETE and DROP statements?
 
-:blue_book: <strong><b>77)</b></strong>
+:blue_book: <strong><b>77)</b></strong> What are Aggregate and Scalar functions?
