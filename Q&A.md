@@ -124,23 +124,23 @@ and Bill Inmon?
 
 :blue_book: <strong><b>58)</b></strong> Why do you like working with data?
 
-:blue_book: <strong><b>59)</b></strong> 
+:blue_book: <strong><b>59)</b></strong> What is Normalization?
 
-:blue_book: <strong><b>60)</b></strong>
+:blue_book: <strong><b>60)</b></strong> What is Denormalization?
 
-:blue_book: <strong><b>61)</b></strong>
+:blue_book: <strong><b>61)</b></strong> What is OLTP?
 
-:blue_book: <strong><b>62)</b></strong>
+:blue_book: <strong><b>62)</b></strong> What are the differences between OLTP and OLAP?
 
-:blue_book: <strong><b>63)</b></strong>
+:blue_book: <strong><b>63)</b></strong> What are ACID properties?
 
-:blue_book: <strong><b>64)</b></strong>
+:blue_book: <strong><b>64)</b></strong> What is NoSQL?
 
-:blue_book: <strong><b>65)</b></strong>
+:blue_book: <strong><b>65)</b></strong> Pros and Cons of SQL and NoSQL ?
 
-:blue_book: <strong><b>66)</b></strong>
+:blue_book: <strong><b>66)</b></strong> What is a View? (in SQL show us an example of use for views)
 
-:blue_book: <strong><b>67)</b></strong>
+:blue_book: <strong><b>67)</b></strong> 
 
 :blue_book: <strong><b>68)</b></strong>
 
