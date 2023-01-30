@@ -37,93 +37,94 @@
 
 :blue_book: <strong><b>15)</b></strong> How does the NameNode communicate with the DataNode?
 
-:blue_book: <strong><b>16)</b></strong>
+:blue_book: <strong><b>16)</b></strong> What happens when the block scanner detects a corrupt data block?
 
-:blue_book: <strong><b>17)</b></strong>
+:blue_book: <strong><b>17)</b></strong> Explain indexing.
 
-:blue_book: <strong><b>18)</b></strong>
+:blue_book: <strong><b>18)</b></strong> Explain the main methods of reducer.
 
-:blue_book: <strong><b>19)</b></strong>
+:blue_book: <strong><b>19)</b></strong> What is COSHH?
 
-:blue_book: <strong><b>20)</b></strong>
+:blue_book: <strong><b>20)</b></strong> What is the relevance of Apache Hadoop's Distributed Cache?
 
-:blue_book: <strong><b>21)</b></strong>
+:blue_book: <strong><b>21)</b></strong> What are the four Vs of Big Data?
 
-:blue_book: <strong><b>22)</b></strong>
+:blue_book: <strong><b>22)</b></strong> Explain the Star Schema in Brief.
 
-:blue_book: <strong><b>23)</b></strong>
+:blue_book: <strong><b>23)</b></strong> Explain the Snowflake Schema in Brief.
 
-:blue_book: <strong><b>24)</b></strong>
+:blue_book: <strong><b>24)</b></strong> Name the XML configuration files present in Hadoop.
 
-:blue_book: <strong><b>25)</b></strong>
+:blue_book: <strong><b>25)</b></strong> What is Hadoop Streaming?
 
-:blue_book: <strong><b>26)</b></strong>
+:blue_book: <strong><b>26)</b></strong> What is the Replication factor?
 
-:blue_book: <strong><b>27)</b></strong>
+:blue_book: <strong><b>27)</b></strong> What is the difference between HDFS block and InputSplit?
 
-:blue_book: <strong><b>28)</b></strong>
+:blue_book: <strong><b>28)</b></strong> What is Apache Spark?
 
-:blue_book: <strong><b>29)</b></strong>
+:blue_book: <strong><b>29)</b></strong> What is the difference between Spark and MapReduce?
 
-:blue_book: <strong><b>30)</b></strong>
+:blue_book: <strong><b>30)</b></strong> What are Skewed tables in Hive?
 
-:blue_book: <strong><b>31)</b></strong>
+:blue_book: <strong><b>31)</b></strong> What is SerDe in the hive?
 
-:blue_book: <strong><b>32)</b></strong>
+:blue_book: <strong><b>32)</b></strong> What are the table creation functions in Hive?
 
-:blue_book: <strong><b>33)</b></strong>
+:blue_book: <strong><b>33)</b></strong> What are *args and **kwargs used for?
 
-:blue_book: <strong><b>34)</b></strong>
+:blue_book: <strong><b>34)</b></strong> What do you mean by spark execution plan?
 
-:blue_book: <strong><b>35)</b></strong>
+:blue_book: <strong><b>35)</b></strong> What is executor memory in spark?
 
-:blue_book: <strong><b>36)</b></strong>
+:blue_book: <strong><b>36)</b></strong> Explain how columnar storage increases query speed.
 
-:blue_book: <strong><b>37)</b></strong>
+:blue_book: <strong><b>37)</b></strong> What is schema evolution?
 
-:blue_book: <strong><b>38)</b></strong>
+:blue_book: <strong><b>38)</b></strong> What do you mean by data pipeline?
 
-:blue_book: <strong><b>39)</b></strong>
+:blue_book: <strong><b>39)</b></strong> What is orchestration?
 
-:blue_book: <strong><b>40)</b></strong>
+:blue_book: <strong><b>40)</b></strong> What are different data validation approaches?
 
-:blue_book: <strong><b>41)</b></strong>
+:blue_book: <strong><b>41)</b></strong> What was the algorithm you used in a recent project?
 
-:blue_book: <strong><b>42)</b></strong>
+:blue_book: <strong><b>42)</b></strong> Have you earned any certification related to this field?
 
-:blue_book: <strong><b>43)</b></strong>
+:blue_book: <strong><b>43)</b></strong> Have you earned any certification related to this field?
 
-:blue_book: <strong><b>44)</b></strong>
+:blue_book: <strong><b>44)</b></strong> What tools did you use in your recent projects?
 
-:blue_book: <strong><b>45)</b></strong>
+:blue_book: <strong><b>45)</b></strong> What challenges did you face in your recent project and how did you overcome them?
 
-:blue_book: <strong><b>46)</b></strong>
+:blue_book: <strong><b>46)</b></strong> Which Python libraries would you recommend for effective data processing?
 
-:blue_book: <strong><b>47)</b></strong>
+:blue_book: <strong><b>47)</b></strong> How do you handle duplicate data points in a SQL query?
 
-:blue_book: <strong><b>48)</b></strong>
+:blue_book: <strong><b>48)</b></strong> Have you ever worked with big data in a cloud computing environment?
 
-:blue_book: <strong><b>49)</b></strong>
+:blue_book: <strong><b>49)</b></strong> What are the roles and responsibilities of a data engineer?
 
-:blue_book: <strong><b>50)</b></strong>
+:blue_book: <strong><b>50)</b></strong> How to become a Data Engineer?
 
-:blue_book: <strong><b>51)</b></strong>
+:blue_book: <strong><b>51)</b></strong> What are the differences between Ralph Kimball's approaches
+and Bill Inmon?
 
-:blue_book: <strong><b>52)</b></strong>
+:blue_book: <strong><b>52)</b></strong> What is Apache Airflow?
 
-:blue_book: <strong><b>53)</b></strong>
+:blue_book: <strong><b>53)</b></strong> What is a parquet file ?
 
-:blue_book: <strong><b>54)</b></strong>
+:blue_book: <strong><b>54)</b></strong> What are the differences between a Data Warehouse, Data Mart and a data lake?
 
-:blue_book: <strong><b>55)</b></strong>
+:blue_book: <strong><b>55)</b></strong> What are the differences in uses and applications for ETL, ELT and Streaming?
 
-:blue_book: <strong><b>56)</b></strong>
+:blue_book: <strong><b>56)</b></strong> What is a data lake house?
 
-:blue_book: <strong><b>57)</b></strong>
+:blue_book: <strong><b>57)</b></strong> What is your perception about the use of data in the near future?
 
-:blue_book: <strong><b>58)</b></strong>
+:blue_book: <strong><b>58)</b></strong> Why do you like working with data?
 
-:blue_book: <strong><b>59)</b></strong>
+:blue_book: <strong><b>59)</b></strong> 
 
 :blue_book: <strong><b>60)</b></strong>
 
