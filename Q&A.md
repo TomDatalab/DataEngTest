@@ -91,7 +91,7 @@
 
 :blue_book: <strong><b>42)</b></strong> Have you earned any certification related to this field?
 
-:blue_book: <strong><b>43)</b></strong> Have you earned any certification related to this field?
+:blue_book: <strong><b>43)</b></strong> What is the difference between no-code and low-code?
 
 :blue_book: <strong><b>44)</b></strong> What tools did you use in your recent projects?
 
