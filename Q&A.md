@@ -8,6 +8,7 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Good luck !
 
 :blue_book: <strong><b>1)</b></strong>  What is Data Engineering?
+<i>It's related to the process to collect data from any aource and create processes to ge this data, load it in a correct data store based on the caracteristics of this data, clean it, enrich it and become it available to be used by Data Analysis and Machine Learning models.</i>
 
 :blue_book: <strong><b>2)</b></strong> What is Data Modeling?
 
